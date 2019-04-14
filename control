@@ -1,0 +1,9 @@
+Package: com.dgh0st.hidesbtime
+Name: HideSBTime
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide Homescreen and lockscreen time from status bar.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
